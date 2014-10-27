@@ -1,0 +1,24 @@
+We have t-slot framing of length:
+814mm
+120+mm (random)
+
+So, we can use four full length framming to make 4 x 314.1mm and 4 x 450.0mm
+450.0 + 314.1 = 764.1  ->  814mm
+
+and use one full length to make 1 x 314.1mm and 1 x 467.2mm
+
+314.1 + 467.2 = 781.3mm  ->  814mm
+
+and another for 1 x 467.2mm and 1 x 150mm and 1 x 125mm
+
+467.2 + 150.0 + 125.0 = 742.2  ->  814mm
+
+and get the one last 1 x 467.2mm somewhere...
+
+UPDATE: 10/27/2014
+To fit 500mm rod, frame dimensions changed
+457.175mm
+500-457.125=42.875mm
+
+467.2mm -> 510mm
+
